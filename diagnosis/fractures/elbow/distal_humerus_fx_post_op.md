@@ -2,7 +2,7 @@
 
 ## splint
 
-posterior elbow splint @ 45 degrees
+[posterior elbow splint @ 90 degrees elbow flexion](/splints/immobolization%20Orthosis/poster_elbow_orthosis.md)
 
 ## protocol
 
